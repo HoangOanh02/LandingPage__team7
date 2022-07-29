@@ -17,7 +17,6 @@ body {
 }
 
 
-
 .header{
     height: 133px;
     display:flex;
@@ -135,15 +134,14 @@ body {
     font-size: 22px;
     font-weight: 500;
     margin-top: 20px;
-
 }
 
 .footer{
     margin-top: 113px;
     height: 464px;
     background-color: #000;
-
 }
+
 
 .footer__list{
     list-style: none;
@@ -156,9 +154,6 @@ body {
     line-height: 28px;
     letter-spacing: 0.05em;
     text-transform: uppercase;
-    
-    
-
 }
 
 .footer__list-item{
@@ -203,8 +198,7 @@ body {
     max-width: 290px;
     height: 27px;
     margin: 0 auto;
-    margin-top: 105px;
-    
+    margin-top: 105px;  
 }
 
 .footer__text{
