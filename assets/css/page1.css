@@ -99,7 +99,6 @@ body {
     font-weight: 400;
     line-height: 34px;
     text-align: center;
-    /* margin: 24px 20px 0; */
 }
 
 .body__wrap-list{
@@ -127,12 +126,7 @@ body {
     row-gap: 64px;
 
 }
-.body__list-item{
 
-}
-.body__list-img{
-
-}
 .body__list-text{
     width: 262px;
     height: 78px;
@@ -256,4 +250,6 @@ body {
     line-height: 140%;
     color: white;
     text-align: center;
+
 }
+
